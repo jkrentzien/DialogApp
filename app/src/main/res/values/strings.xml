@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogApp</string>
+
+    <string-array name="opciones">
+        <item>SI</item>
+        <item>NO</item>
+        <item>TALVEZ</item>
+    </string-array>
+</resources>
